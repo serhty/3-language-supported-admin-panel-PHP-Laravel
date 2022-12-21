@@ -1,0 +1,17 @@
+3 Language Supported Admin Panel
+- Adding content according to 3 languages ​​(English, German, Russian)
+- Creating authorized users for the admin (users with full authorization have the authority to add users and see every action done on the panel)
+- all operations performed on the panel can be viewed and controlled on the "Recent Operations" page
+- add, delete, edit pages
+- add, delete, edit blog posts
+- add, delete, edit categories
+- add, delete, edit products
+- add, delete, edit customers
+- edit add, delete sales
+- edit customer payment, debit, add sales, delete
+- If the customer is not in the system, it is automatically added to the system in every sale.
+- add category attributes (such as color, size) for products
+- create price, discount, currency attributes for products
+- note section for admin
+- Adding a story for the website
+and similar features

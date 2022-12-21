@@ -1,0 +1,55 @@
+.form_img{
+    height: 150px !important;
+    width: 100% !important;
+    object-fit: cover !important;
+}
+
+.form-group label {
+    font-weight: bold !important;
+}
+
+.dataTable-dropdown{
+    width: fit-content !important;
+    float: right !important;
+}
+
+.dataTable-search{
+    width: fit-content !important;
+}
+
+.dataTable-container {
+    overflow-x: auto !important;
+    margin-top: 30px !important;
+}
+
+.transactionsButtons{
+    width: 20% !important;
+}
+
+.ck-rounded-corners .ck.ck-editor__main>.ck-editor__editable, .ck.ck-editor__main>.ck-editor__editable.ck-rounded-corners{
+    min-height: 250px !important;
+}
+
+.sidebar-wrapper .menu .submenu .submenu-item a{
+    padding: 0.7rem 0rem !important;
+}
+
+.image_div{
+    margin: 5px 3px !important;
+    border: 1px solid #e6eef5 !important;
+    border-radius: 5px !important;
+    padding: 0px !important;
+    width: 24% !important;
+}
+
+.image_buttons{
+    width: 100% !important;
+}
+
+.image_card{
+    padding: 0px !important;
+}
+
+.notShow{
+    display: none !important;
+}
